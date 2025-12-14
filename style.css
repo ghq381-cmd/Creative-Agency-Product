@@ -1,0 +1,187 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background-color: #8a8a8a;
+  color: white;
+}
+
+.navbar {
+  background-color: #1f1f1f;
+  padding: 35px;
+}
+
+.logo {
+  color: orange;
+  font-size: 22px;
+  font-weight: bold;
+  display: inline-block;
+}
+
+.menu {
+  float: right;
+}
+
+.menu a {
+  color: white;
+  text-decoration: none;
+  margin-left: 20px;
+}
+
+.menu a:hover {
+  color: orange;
+}
+
+.main {
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.main h1 {
+  font-size: 36px;
+}
+
+.main p {
+  font-size: 18px;
+}
+
+button {
+  background-color: orange;
+  border: none;
+  padding: 10px 25px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.services {
+  margin-top: 50px;
+}
+
+.box {
+  width: 250px;
+  display: inline-block;
+  margin: 15px;
+}
+
+.box h3 {
+  font-size: 18px;
+}
+
+.testimonial {
+  text-align: center;
+  padding: 50px;
+}
+
+.testimonial-box {
+  background-color: #1f1f1f;
+  width: 350px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 9px;
+}
+
+.testimonial-box2 {
+  background-color: #1f1f1f;
+  width: 350px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 9px;
+}
+.about-section {
+   font-family: Arial, sans-serif;
+    background-color: #1e1e1e;
+    color: white;
+            width: 80%;
+            margin: 80px auto;
+        }
+
+        .about-section h1 {
+                font-size: 48px;
+                margin-bottom: 10px;
+        }
+
+        .intro-text {
+                font-size: 18px;
+                line-height: 1.6;
+                max-width: 600px;
+                margin-bottom: 40px;
+        }
+
+        .timeline h3 {
+                font-size: 20px;
+                margin-top: 20px;
+        }
+
+        .timeline p {
+                font-size: 16px;
+                margin-top: 5px;
+                color: #cccccc;
+         }
+
+         .portfolio-section {
+    width: 90%;
+    margin: 60px auto;
+}
+
+.portfolio-section h1 {
+    color: white;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.portfolio-box {
+    display: flex;
+    gap: 20px;
+}
+
+.card {
+    background-color: white;
+    padding: 10px;
+    border-radius: 6px;
+    width: 250px;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 4px;
+}
+
+.form{
+        background-color: #444;
+        border-radius: 8px;
+        margin-left: auto;
+    }
+
+    .input{
+        background-color: #555;
+        border-radius: 3px;
+        width: 300px;
+        height: 30px;
+        border: none;
+        outline: none;
+        
+    }
+    
+    .textarea{
+        background-color: #555;
+        border-radius: 8px;
+        border: none;
+        outline: none;
+        width: 300px;        
+    }
+    body {
+    text-align: center;
+    margin-top: 100px;
+    font-family: Arial, sans-serif;
+}
+
+.send-button {
+    background-color: #f4a300;
+    color: white;  
+    padding: 15px 60px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+}
